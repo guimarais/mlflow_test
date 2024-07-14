@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, balanced_accuracy_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.linear_model import LogisticRegression
 import pickle
 
@@ -27,6 +28,7 @@ if __name__ == "__main__":
 
     # Start mlflow logging
     exp = mlflow.set_experiment(experiment_name="iris")
+    mlflow.start_run()
 
     print("Name: {}".format(exp.name))
     print("Experiment_id: {}".format(exp.experiment_id))

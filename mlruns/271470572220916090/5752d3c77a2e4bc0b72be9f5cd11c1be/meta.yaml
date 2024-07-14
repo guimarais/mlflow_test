@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guimarais/Documents/Software/mlflow/mlflow_test/mlruns/271470572220916090/5752d3c77a2e4bc0b72be9f5cd11c1be/artifacts
+end_time: 1720991061248
+entry_point_name: ''
+experiment_id: '271470572220916090'
+lifecycle_stage: active
+run_id: 5752d3c77a2e4bc0b72be9f5cd11c1be
+run_name: welcoming-hen-989
+run_uuid: 5752d3c77a2e4bc0b72be9f5cd11c1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720991059460
+status: 3
+tags: []
+user_id: guimarais
