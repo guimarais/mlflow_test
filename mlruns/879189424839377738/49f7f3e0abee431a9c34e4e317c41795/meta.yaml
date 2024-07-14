@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guimarais/Documents/Software/mlflow/mlflow_test/mlruns/879189424839377738/49f7f3e0abee431a9c34e4e317c41795/artifacts
+end_time: 1720971414090
+entry_point_name: ''
+experiment_id: '879189424839377738'
+lifecycle_stage: active
+run_id: 49f7f3e0abee431a9c34e4e317c41795
+run_name: dashing-horse-43
+run_uuid: 49f7f3e0abee431a9c34e4e317c41795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720971414077
+status: 3
+tags: []
+user_id: guimarais

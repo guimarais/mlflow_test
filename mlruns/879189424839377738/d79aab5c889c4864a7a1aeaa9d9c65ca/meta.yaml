@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guimarais/Documents/Software/mlflow/mlflow_test/mlruns/879189424839377738/d79aab5c889c4864a7a1aeaa9d9c65ca/artifacts
+end_time: 1720989342936
+entry_point_name: ''
+experiment_id: '879189424839377738'
+lifecycle_stage: active
+run_id: d79aab5c889c4864a7a1aeaa9d9c65ca
+run_name: respected-donkey-690
+run_uuid: d79aab5c889c4864a7a1aeaa9d9c65ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720989340981
+status: 3
+tags: []
+user_id: guimarais

@@ -1,0 +1,6 @@
+artifact_location: file:///home/guimarais/Documents/Software/mlflow/mlflow_test/mlruns/879189424839377738
+creation_time: 1720968619145
+experiment_id: '879189424839377738'
+last_update_time: 1720968619145
+lifecycle_stage: active
+name: iris

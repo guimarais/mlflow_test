@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guimarais/Documents/Software/mlflow/mlflow_test/mlruns/879189424839377738/6b7a597d13984bb59d1ccc735a727a12/artifacts
+end_time: 1720970363143
+entry_point_name: ''
+experiment_id: '879189424839377738'
+lifecycle_stage: active
+run_id: 6b7a597d13984bb59d1ccc735a727a12
+run_name: gregarious-mouse-320
+run_uuid: 6b7a597d13984bb59d1ccc735a727a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720970350242
+status: 3
+tags: []
+user_id: guimarais

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guimarais/Documents/Software/mlflow/mlflow_test/mlruns/879189424839377738/c07baa02e1ab47b4ab7d19ae1081e2d1/artifacts
+end_time: 1720989451678
+entry_point_name: ''
+experiment_id: '879189424839377738'
+lifecycle_stage: active
+run_id: c07baa02e1ab47b4ab7d19ae1081e2d1
+run_name: useful-moth-710
+run_uuid: c07baa02e1ab47b4ab7d19ae1081e2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720989449764
+status: 3
+tags: []
+user_id: guimarais
